@@ -6,3 +6,4 @@ openpyxl
 tqdm
 matplotlib
 seaborn
+tqdm
